@@ -17,4 +17,6 @@
 #wall .parent > #tag-6{
   display: none;
 }
-#wall .parent +
+#wall .parent > div > #tag-7{
+  display: none;
+}
