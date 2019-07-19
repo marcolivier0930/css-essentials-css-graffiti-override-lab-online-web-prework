@@ -8,4 +8,6 @@
 #wall #tag-3{
   display: none;
 }
-#wall .prant
+#wall .parent #tag-4{
+  display: none;
+}
